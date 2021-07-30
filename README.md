@@ -1,4 +1,4 @@
-heroku-node
+Takeover by Elsfa7-110
 ===========
 
-Code for the tutorial by @m7mdharon: Deploying Node Apps to Heroku
+Takeover by Elsfa7-110 (this only PoC)
